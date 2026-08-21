@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Sitemap para o Google
+Sitemap: https://rodrigogardini.github.io/SiteCambord/sitemap.xml
+
+# Otimização para IAs (GEO)
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
